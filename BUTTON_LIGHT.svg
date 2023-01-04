@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.74653479"
-     inkscape:cx="195.57026"
-     inkscape:cy="-10.046417"
+     inkscape:cx="717.98395"
+     inkscape:cy="290.00658"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -45,44 +45,56 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-56.324211,-155.77078)">
+     transform="translate(81.911655,-76.295788)">
     <rect
-       style="fill:none;fill-opacity:0.501961;stroke:#32373c;stroke-width:2.01609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect1373"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.01609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1926"
        width="175.21936"
        height="44.938671"
-       x="57.332256"
-       y="156.77882"
-       ry="22.469336" />
+       x="-80.90361"
+       y="77.303833"
+       ry="22.469336"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab Website\NEARLab-MedicalRobotics\buttontowebsite_white.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#32373c;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="145.30388"
-       y="183.69316"
-       id="text4977"><tspan
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="7.0680165"
+       y="104.21817"
+       id="text1930"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab Website\NEARLab-MedicalRobotics\buttontowebsite_white.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
          sodipodi:role="line"
-         id="tspan4975"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=453';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 453;text-align:center;text-anchor:middle;fill:#32373c;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="145.30388"
-         y="183.69316">VISIT THE WEBSITE</tspan></text>
+         id="tspan1928"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=453';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 453;text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="7.0680165"
+         y="104.21817">VISIT THE WEBSITE</tspan></text>
     <rect
-       style="fill:none;fill-opacity:0.501961;stroke:#32373c;stroke-width:2.01609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect22339"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.01609;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1932"
        width="175.21936"
        height="44.938671"
-       x="57.332256"
-       y="156.77882"
-       ry="22.469336" />
+       x="-80.90361"
+       y="77.303833"
+       ry="22.469336"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab Website\NEARLab-MedicalRobotics\buttontowebsite_white.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#32373c;fill-opacity:1;stroke:none;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-       x="145.30388"
-       y="183.69316"
-       id="text22347"><tspan
+       style="font-style:normal;font-weight:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="7.0680165"
+       y="104.21817"
+       id="text1936"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab Website\NEARLab-MedicalRobotics\buttontowebsite_white.png"
+       inkscape:export-xdpi="250"
+       inkscape:export-ydpi="250"><tspan
          sodipodi:role="line"
-         id="tspan22345"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=453';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 453;text-align:center;text-anchor:middle;fill:#32373c;fill-opacity:1;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none"
-         x="145.30388"
-         y="183.69316">VISIT THE WEBSITE</tspan></text>
+         id="tspan1934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=453';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 453;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="7.0680165"
+         y="104.21817">VISIT THE WEBSITE</tspan></text>
   </g>
 </svg>
