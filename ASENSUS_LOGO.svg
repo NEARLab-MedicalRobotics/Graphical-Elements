@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="243.85672pt"
+   height="204.16072pt"
+   viewBox="0 0 243.85672 204.16072"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg24"
+   sodipodi:docname="Aensus-Logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4922">
+      <stop
+         style="stop-color:#74fed2;stop-opacity:1"
+         offset="0"
+         id="stop4918" />
+      <stop
+         style="stop-color:#002ea8;stop-opacity:1"
+         offset="1"
+         id="stop4920" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4922"
+       id="linearGradient4924"
+       x1="441.6452"
+       y1="221.41588"
+       x2="506.51193"
+       y2="200.26164"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-350.21047,-49.217492)" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     inkscape:zoom="1.2421269"
+     inkscape:cx="222.19952"
+     inkscape:cy="94.595812"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <path
+     style="fill:url(#linearGradient4924);fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 243.85672,204.16072 142.18127,0 40.92766,203.5913 187.27923,203.80812 148.68578,185.37866 H 73.23342 l 69.55297,-143.217937 79.6697,161.934407 z"
+     id="path1950" />
+  <path
+     style="fill:#fe6400;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 178.04844,113.84287 H 44.31728 L 0,132.92146 h 187.44955 z"
+     id="path1952" />
+</svg>
