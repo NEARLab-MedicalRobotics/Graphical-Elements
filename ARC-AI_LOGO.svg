@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="ARC-AI_LOGO.svg.2023_02_01_17_43_50.0.svg"
+   sodipodi:docname="ARC-AI_LOGO.svg"
    inkscape:export-filename="C:\Users\alber\Desktop\ARC_AI_LOGO_V1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100"
@@ -24,7 +24,7 @@
      borderopacity="1"
      inkscape:pageshadow="0"
      inkscape:pageopacity="1"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:object-paths="true"
@@ -37,9 +37,9 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:zoom="0.94785803"
-     inkscape:cx="-1416.8789"
-     inkscape:cy="1520.7974"
+     inkscape:zoom="1.0015024"
+     inkscape:cx="-1499.2476"
+     inkscape:cy="2445.8255"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -48,6 +48,171 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1578">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop1574" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop1576" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1288"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1276"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1270"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1264"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,11.712248,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1254"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1157"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1153"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1149"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,7.9375,0,1 @ F,0,0,1,0,11.712248,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="30"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1145"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.229167,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="50"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect1263"
@@ -1206,6 +1371,26 @@
        y1="325.34763"
        x2="52.381432"
        y2="321.96707" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient33327"
+       id="linearGradient1159"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99849549,0,0,0.59409882,-608.88782,-127.2426)"
+       x1="246.86563"
+       y1="325.34763"
+       x2="52.381432"
+       y2="321.96707" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1578"
+       id="linearGradient1290"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99849549,0,0,0.59409882,-608.88782,-31.559407)"
+       x1="246.86563"
+       y1="325.34763"
+       x2="52.381432"
+       y2="321.96707" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -2119,6 +2304,68 @@
        d="m -338.77511,-165.28744 c 0,0 0,2.82791 0,0 0,-12.48256 -35.92044,-25.32962 -99.40336,-25.24695 -69.46063,0.0904 -92.90796,12.52837 -92.8822,23.40933 l 0.003,1.43388"
        id="path33321-6-03"
        sodipodi:nodetypes="csssc" />
+    <g
+       id="g33299-6-9-69"
+       transform="matrix(0.92180153,0,0,0.92180153,-595.86538,16.229245)"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 92.26995,56.073313 h 21.47641 a 7.9375,7.9375 45 0 1 7.9375,7.9375 v 1.15198 a 7.9375,7.9375 135 0 1 -7.9375,7.9375 H 103.9822 A 11.712248,11.712248 135 0 0 92.26995,84.812541 v 5.314732"
+         id="path33295-6-0-8"
+         inkscape:path-effect="#path-effect1149"
+         inkscape:original-d="m 92.26995,56.073313 h 29.41391 v 17.02698 H 92.26995 v 17.02698" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.70616,89.30764 -5.28731,-9.630574"
+         id="path33297-9-3-2" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.70507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -445.57912,67.965735 h -14.49168 a 13.229167,13.229167 135 0 0 -13.22917,13.229167 v 4.836596 a 13.229167,13.229167 45 0 0 13.22917,13.229167 h 14.49168"
+       id="path33305-7-5-8"
+       inkscape:path-effect="#path-effect1153"
+       inkscape:original-d="m -445.57912,67.965735 h -27.72085 v 31.29493 h 27.72085"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.13417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -377.0937,98.624885 -13.23968,-27.448611 a 6.3810152,6.3810152 0 0 0 -11.49474,0 l -7.49231,15.533132 a 8.3066785,8.3066785 57.875053 0 0 7.4818,11.915485 l 7.50002,4e-6"
+       id="path33311-7-4-6"
+       sodipodi:nodetypes="cccc"
+       inkscape:original-d="m -377.0937,98.624885 -18.98705,-39.36409 -18.98705,39.36409 20.72919,10e-6"
+       inkscape:path-effect="#path-effect1157"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.12112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -434.94657,83.154225 h 13.96971"
+       id="path33317-4-6-3"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect33319-6-86-0"
+       width="9"
+       height="36"
+       x="-368.80716"
+       y="65.154228"
+       ry="1.8620187"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;stroke:url(#linearGradient1159);stroke-width:3.80035;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -364.30134,65.158335 c 0,0 0,2.82791 0,0 0,-12.48256 -35.92044,-25.32962 -99.40336,-25.24695 -69.46063,0.0904 -92.90796,12.52837 -92.8822,23.40933 l 0.003,1.43388"
+       id="path33321-6-03-2"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
     <path
        style="fill:none;stroke:#000000;stroke-width:5.09379;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        d="m -492.80845,-28.321234 -13.13632,-26.973049 a 6.4428195,6.4428195 179.99999 0 0 -11.5848,10e-7 l -13.13631,26.973048"
@@ -2170,5 +2417,88 @@
        inkscape:path-effect="#path-effect1263"
        inkscape:original-d="m -346.75852,-28.321234 -18.92872,-38.8667 -18.92871,38.8667"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.13417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -521.40185,99.121615 -13.23969,-27.448614 a 6.3810145,6.3810145 0 0 0 -11.49472,0 l -7.49233,15.533134 a 8.3066789,8.3066789 57.875052 0 0 7.48181,11.915486 l 7.50002,4e-6"
+       id="path1250"
+       sodipodi:nodetypes="cccc"
+       inkscape:original-d="m -521.40185,99.121615 -18.98705,-39.364094 -18.98705,39.364094 20.72919,10e-6"
+       inkscape:path-effect="#path-effect1254"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI_2.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <g
+       id="g1260"
+       transform="matrix(0.92180153,0,0,0.92180153,-595.86538,111.91244)"
+       style="stroke:#ffffff;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 92.26995,56.073313 h 21.47641 a 7.9375,7.9375 45 0 1 7.9375,7.9375 v 1.15198 a 7.9375,7.9375 135 0 1 -7.9375,7.9375 H 103.9822 A 11.712248,11.712248 135 0 0 92.26995,84.812541 v 5.314732"
+         id="path1256"
+         inkscape:path-effect="#path-effect1264"
+         inkscape:original-d="m 92.26995,56.073313 h 29.41391 v 17.02698 H 92.26995 v 17.02698" />
+      <path
+         style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 121.70616,89.30764 -5.28731,-9.630574"
+         id="path1258" />
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:4.70507;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -445.57912,163.64893 h -14.49168 a 13.229167,13.229167 135 0 0 -13.22917,13.22917 v 4.83659 a 13.229167,13.229167 45 0 0 13.22917,13.22917 h 14.49168"
+       id="path1266"
+       inkscape:path-effect="#path-effect1270"
+       inkscape:original-d="m -445.57912,163.64893 h -27.72085 v 31.29493 h 27.72085"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.13417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -377.0937,194.30808 -13.23968,-27.44861 a 6.3810152,6.3810152 0 0 0 -11.49474,0 l -7.49231,15.53313 a 8.3066785,8.3066785 57.875053 0 0 7.4818,11.91549 l 7.50002,0"
+       id="path1272"
+       sodipodi:nodetypes="cccc"
+       inkscape:original-d="m -377.0937,194.30808 -18.98705,-39.36409 -18.98705,39.36409 20.72919,1e-5"
+       inkscape:path-effect="#path-effect1276"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.12112;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -434.94657,178.83742 h 13.96971"
+       id="path1278"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1280"
+       width="9"
+       height="36"
+       x="-368.80716"
+       y="160.83742"
+       ry="1.8620187"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:none;stroke:url(#linearGradient1290);stroke-width:3.80035;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -364.30134,160.84153 c 0,0 0,2.82791 0,0 0,-12.48256 -35.92044,-25.32962 -99.40336,-25.24695 -69.46063,0.0904 -92.90796,12.52837 -92.8822,23.40933 l 0.003,1.43388"
+       id="path1282"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:5.13417;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m -521.40185,194.80481 -13.23969,-27.44862 a 6.3810135,6.3810135 180 0 0 -11.49472,0 l -7.49233,15.53314 a 8.3066794,8.3066794 57.87505 0 0 7.48181,11.91549 l 7.50002,0"
+       id="path1284"
+       sodipodi:nodetypes="cccc"
+       inkscape:original-d="m -521.40185,194.80481 -18.98705,-39.3641 -18.98705,39.3641 20.72919,1e-5"
+       inkscape:path-effect="#path-effect1288"
+       inkscape:export-filename="C:\Users\alber\Desktop\NEARLab\Media\PNGs\ARC_AI.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
   </g>
 </svg>
